@@ -1,0 +1,38 @@
+body{
+    font-family:"Roboto";
+}
+.header{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav{
+    padding-right: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+li{
+    padding: 10px;
+}
+.intro{
+    display: flex;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 100px;
+    justify-content: space-between;
+    
+}
+img{height:250px;
+}
+.left{
+    width:50%;
+
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 8px;
+}
